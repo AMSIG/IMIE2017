@@ -37,16 +37,16 @@ No conference fee (we will request only for optional donations for coffee, tea, 
 
 #### Organizing Committee: 
 
-Kuniko Abe (kunikoabe)
+ * Kuniko Abe (kunikoabe)
 
-Andy Crofts (acrofts)
+ * Andy Crofts (acrofts)
 
-Florent Domenach (fdomenach)
+ * Florent Domenach (fdomenach)
 
-Attila Egri-Nagy (egri-nagy)
+ * Attila Egri-Nagy (egri-nagy)
 
-Yasushi Nara (nara)
+ * Yasushi Nara (nara)
 
-Marcin J. Schroeder (mjs)
+ * Marcin J. Schroeder (mjs)
 
 (email addresses all end with @aiu.ac.jp)
