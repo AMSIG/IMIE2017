@@ -19,7 +19,10 @@ Presentations may be of the work in progress. High quality papers with the conte
 
 [Registration](regform.md)
 
-#### Invited Speaker: Andrew R. Francis
+#### Invited Speaker
+
+[Professor Andrew R. Francis](http://staff.scem.uws.edu.au/~andrew/) Director of Centre for Research in Mathematics,
+School of Computing, Engineering and Mathematics, Western Sydney University, Australia
 
 Language of the symposium: English
 
