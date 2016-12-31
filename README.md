@@ -34,6 +34,7 @@ Venue: Campus of Akita International University, Akita city, Japan (detailed inf
 
 No conference fee (we will request only for optional donations for coffee, tea, etc. at coffee breaks)
 
+---
 
 #### Organizing Committee: 
 
