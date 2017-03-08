@@ -8,6 +8,15 @@
 
 Symposium has as its main goal an exchange of views and opinions, sharing knowledge and discussion of the methods to integrate curriculum helping to educate new generations in the manner propagating a holistic world view. Mathematics and increased level of abstraction are natural sources of the methods of unification of knowledge and of curriculum. The concept of symmetry provides an example of the program of unification of the methods of inquiry across virtually all disciplines of human intellectual activity. Whether successful or not, it can serve as a starting point for the discussion of the curricular reforms. We invite contributions to the discussion in the form of oral presentations of relevant papers. [FULL SYNOPSIS](call.md)
 
+#### Invited Speaker
+
+[Professor Andrew R. Francis](http://staff.scem.uws.edu.au/~andrew/) Director of Centre for Research in Mathematics,
+School of Computing, Engineering and Mathematics, Western Sydney University, Australia
+
+### Abstracts
+
+  * **Symmetry as a compression tool** (Attila Egri-Nagy) The precise notion of symmetry underlies most of modern mathematics and several other scientific fields (e.g.~physics, chemistry). Despite its fundamental role, symmetry is easy to explain on an intuitive level. The traditional introduction to symmetry operations begins with studying geometrical transformations of regular polygons and polyhedra, then proceeds to the algebraic notation. This approach emphasizes the beauty aspect of symmetry. There is another way based on the notion of efficiency. Here we describe how the simple idea of relabelling elements of a combinatorial structure can make computer programs way faster, and how we can store the same amount of information in less space. For the argument, only the mathematical notion of function is assumed. Therefore, similarly to the geometrical approach, the ideas are accessible without abstract algebra background.
+  
 
 #### Submission of Abstracts:
 
@@ -19,10 +28,7 @@ Presentations may be of the work in progress. High quality papers with the conte
 
 [Registration](regform.md)
 
-#### Invited Speaker
 
-[Professor Andrew R. Francis](http://staff.scem.uws.edu.au/~andrew/) Director of Centre for Research in Mathematics,
-School of Computing, Engineering and Mathematics, Western Sydney University, Australia
 
 Language of the symposium: English
 
