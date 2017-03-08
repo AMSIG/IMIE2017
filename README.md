@@ -15,8 +15,9 @@ School of Computing, Engineering and Mathematics, Western Sydney University, Aus
 
 ### Abstracts
 
-  * **Symmetry as a compression tool** (Attila Egri-Nagy) The precise notion of symmetry underlies most of modern mathematics and several other scientific fields (e.g.~physics, chemistry). Despite its fundamental role, symmetry is easy to explain on an intuitive level. The traditional introduction to symmetry operations begins with studying geometrical transformations of regular polygons and polyhedra, then proceeds to the algebraic notation. This approach emphasizes the beauty aspect of symmetry. There is another way based on the notion of efficiency. Here we describe how the simple idea of relabelling elements of a combinatorial structure can make computer programs way faster, and how we can store the same amount of information in less space. For the argument, only the mathematical notion of function is assumed. Therefore, similarly to the geometrical approach, the ideas are accessible without abstract algebra background.
+  * **Symmetry as a compression tool** (Attila Egri-Nagy) The precise notion of symmetry underlies most of modern mathematics and several other scientific fields (e.g. physics, chemistry). Despite its fundamental role, symmetry is easy to explain on an intuitive level. The traditional introduction to symmetry operations begins with studying geometrical transformations of regular polygons and polyhedra, then proceeds to the algebraic notation. This approach emphasizes the beauty aspect of symmetry. There is another way based on the notion of efficiency. Here we describe how the simple idea of relabelling elements of a combinatorial structure can make computer programs way faster, and how we can store the same amount of information in less space. For the argument, only the mathematical notion of function is assumed. Therefore, similarly to the geometrical approach, the ideas are accessible without abstract algebra background.
   
+
 
 #### Submission of Abstracts:
 
