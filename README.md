@@ -32,8 +32,9 @@ March 30 | DAY 2
 15:00 | **Identity, Equivalence, Orders and Similarities** (Florent Domenach)
 16:00 | **Symmetry in Language** (Shunsuke Nakata)
 17:00 | COFFEE BREAK
-17:15 | Panel Discussion
-18:30 | CLOSING
+17:15 | **Questioning Ontic Realism** (Akiko Frischhut)
+17:45 | Panel Discussion
+19:00 | CLOSING
 
 #### Invited Speaker
 
