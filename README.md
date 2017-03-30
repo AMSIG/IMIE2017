@@ -31,6 +31,7 @@ March 30 | DAY 2
 13:30 | **Reforming Calculus Textbook of High Schools and Colleges in Japan** (Akihiro Yamamura, Mahito Kobayasahi, Akita University)
 14:00 | **The difference of class makes carelessness** (Saaya Konno, Szilárd Zolt Fazekas, Akihiro Yamamura, Akita University)
 14:30 | COFFE BREAK
+14:45 | **Symmetry in Serious Economics - Fixed points in functional spaces as a description of the economy** (Nori Tawara)
 15:00 | **Identity, Equivalence, Orders and Similarities** (Florent Domenach)
 16:00 | **Symmetry in Language** (Shunsuke Nakata)
 17:00 | COFFEE BREAK
